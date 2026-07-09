@@ -68,12 +68,15 @@ taskmanager/
 
 ### Passos
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/taskmanager.git
-cd taskmanager
+Clone o repositório
 
-# Execute
+```bash
+git clone https://github.com/lucas-sturiao/task-manager.git
+cd task-manager
+```
+
+Execute
+```
 ./mvnw spring-boot:run
 ```
 
