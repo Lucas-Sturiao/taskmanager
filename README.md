@@ -1,6 +1,6 @@
-# ✦ TaskFlow — Task Manager
+# ✦ Task Manager
 
-Projeto de gerenciamento de tarefas desenvolvido com **Java + Spring Boot** no backend e **HTML, CSS e JavaScript** puro no frontend. Ideal para portfólio — demonstra uma API REST completa integrada a um frontend moderno.
+Projeto de gerenciamento de tarefas desenvolvido com **Java + Spring Boot** no backend e **HTML, CSS e JavaScript** puro no frontend. Demonstra uma API REST completa integrada a um frontend moderno.
 
 ---
 
@@ -114,6 +114,13 @@ Com a aplicação rodando, acesse:
 
 ---
 
-## 👨‍💻 Autor
+## 🤝 Contribuições
 
-Feito com ☕ e Java. Sinta-se livre para fazer fork e contribuir!
+Contribuições são sempre bem-vindas!
+
+Caso encontre algum problema ou tenha sugestões de melhorias:
+
+1. Faça um Fork do projeto.
+2. Crie uma nova Branch.
+3. Faça suas alterações.
+4. Envie um Pull Request.
