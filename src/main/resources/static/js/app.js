@@ -3,7 +3,7 @@
 // Comunicação com a API REST do Spring Boot via Fetch API
 // ============================================================
 
-const API_URL = '/api/tasks';
+const API_URL = 'http://localhost:8080/api/tasks';
 
 let allTasks = [];
 let currentFilter = 'all';
